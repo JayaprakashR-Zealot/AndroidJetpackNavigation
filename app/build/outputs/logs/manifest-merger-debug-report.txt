@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha04.aar/8990f8f58f8b43da565ec616d8309e93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/material-1.0.0-alpha3.aar/3dcf9c21f56930122532cae795e8f69b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/1e9cfbcd1d227d85b518a56c985aed72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/JP/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/b3276728af5476095f7ceb2b9cf1e740/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha04.aar/845fa0f20699e837431cb1dbb4cbf2a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/60cd5306ab264e9754aba1165af03d1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/36930f7a0a89bac3c9089970fa719991/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-alpha3.aar/409742e573d8494fd0f7803f7ca13a4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/e7f9070b08323123242b306f825537a3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha04.aar/75a228135dd4ecb668c5501a300300d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/0c073649518778c56bf5871e5cb90e39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/e7a1d9c5a606695250f07bd404f10d99/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/ce300603ccaa0d783c47967b4a8979f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-alpha3.aar/a44e1315311f0986b07e4d926d71e07a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/bee8ad64fbeec088ed21d132a67d695c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/6e3f4848a2f84e75f851a4416494cebb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/65a5cd5059b30412575bce65d92b03fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/0d916bd3ebc76df08b9bdf3bfa7902cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/bd6940c9e73c5910d57ec04990ec7d86/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/36e12c9ad0b07f50b66d39c590b90e92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/7ff5fd877666a72d080b89f2501bc718/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha04.aar/67d730b2a0bd80f813d72e9ad2b11045/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/592f8ebd463b7e1d2a1887cfd9018fb9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/ee492b1a33bf66b94a875ec30cb110e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/4da0f3f0982d2be9175cdfaae6ce6b6e/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/3c15434e2fcf2d69572a891452a18818/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/ee3b62ad6ab4e206aa979012db978c91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/676d5006bda4a82001db605e2967c954/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-alpha3.aar/ded7e3e82034b7c232eb7b19a01c44f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/5d8a7b8193101e0cd72113e5ded10e9a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/f54909396cacadd52a04b3f96a21ebc9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/1cd757c5f3f323dc41ed67b63bf89948/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/f3003834717cbc869e9d4d6fb9dcc25e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/c14a7b6f80e029869f0dfc36d83d99b9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/material-1.0.0-alpha3.aar/3dcf9c21f56930122532cae795e8f69b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/material-1.0.0-alpha3.aar/3dcf9c21f56930122532cae795e8f69b/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/JP/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/b3276728af5476095f7ceb2b9cf1e740/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/JP/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/b3276728af5476095f7ceb2b9cf1e740/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/592f8ebd463b7e1d2a1887cfd9018fb9/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/592f8ebd463b7e1d2a1887cfd9018fb9/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/4da0f3f0982d2be9175cdfaae6ce6b6e/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/4da0f3f0982d2be9175cdfaae6ce6b6e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/592f8ebd463b7e1d2a1887cfd9018fb9/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.truedreamz.navigation.MainActivity
+ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:12:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha04.aar/8990f8f58f8b43da565ec616d8309e93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha04.aar/8990f8f58f8b43da565ec616d8309e93/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/material-1.0.0-alpha3.aar/3dcf9c21f56930122532cae795e8f69b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/material-1.0.0-alpha3.aar/3dcf9c21f56930122532cae795e8f69b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/1e9cfbcd1d227d85b518a56c985aed72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/1e9cfbcd1d227d85b518a56c985aed72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/JP/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/b3276728af5476095f7ceb2b9cf1e740/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/JP/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/b3276728af5476095f7ceb2b9cf1e740/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha04.aar/845fa0f20699e837431cb1dbb4cbf2a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha04.aar/845fa0f20699e837431cb1dbb4cbf2a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/60cd5306ab264e9754aba1165af03d1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/60cd5306ab264e9754aba1165af03d1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/36930f7a0a89bac3c9089970fa719991/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/36930f7a0a89bac3c9089970fa719991/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-alpha3.aar/409742e573d8494fd0f7803f7ca13a4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-alpha3.aar/409742e573d8494fd0f7803f7ca13a4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/e7f9070b08323123242b306f825537a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/e7f9070b08323123242b306f825537a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha04.aar/75a228135dd4ecb668c5501a300300d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha04.aar/75a228135dd4ecb668c5501a300300d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/0c073649518778c56bf5871e5cb90e39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/0c073649518778c56bf5871e5cb90e39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/e7a1d9c5a606695250f07bd404f10d99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/e7a1d9c5a606695250f07bd404f10d99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/ce300603ccaa0d783c47967b4a8979f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/ce300603ccaa0d783c47967b4a8979f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-alpha3.aar/a44e1315311f0986b07e4d926d71e07a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-alpha3.aar/a44e1315311f0986b07e4d926d71e07a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/bee8ad64fbeec088ed21d132a67d695c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/bee8ad64fbeec088ed21d132a67d695c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/6e3f4848a2f84e75f851a4416494cebb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/6e3f4848a2f84e75f851a4416494cebb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/65a5cd5059b30412575bce65d92b03fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/65a5cd5059b30412575bce65d92b03fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/0d916bd3ebc76df08b9bdf3bfa7902cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/0d916bd3ebc76df08b9bdf3bfa7902cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/bd6940c9e73c5910d57ec04990ec7d86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/bd6940c9e73c5910d57ec04990ec7d86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/36e12c9ad0b07f50b66d39c590b90e92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/36e12c9ad0b07f50b66d39c590b90e92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/7ff5fd877666a72d080b89f2501bc718/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/7ff5fd877666a72d080b89f2501bc718/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha04.aar/67d730b2a0bd80f813d72e9ad2b11045/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha04] /Users/JP/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha04.aar/67d730b2a0bd80f813d72e9ad2b11045/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/592f8ebd463b7e1d2a1887cfd9018fb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/592f8ebd463b7e1d2a1887cfd9018fb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/ee492b1a33bf66b94a875ec30cb110e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/ee492b1a33bf66b94a875ec30cb110e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/4da0f3f0982d2be9175cdfaae6ce6b6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/4da0f3f0982d2be9175cdfaae6ce6b6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/3c15434e2fcf2d69572a891452a18818/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/3c15434e2fcf2d69572a891452a18818/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/ee3b62ad6ab4e206aa979012db978c91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/ee3b62ad6ab4e206aa979012db978c91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/676d5006bda4a82001db605e2967c954/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/676d5006bda4a82001db605e2967c954/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-alpha3.aar/ded7e3e82034b7c232eb7b19a01c44f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-alpha3] /Users/JP/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-alpha3.aar/ded7e3e82034b7c232eb7b19a01c44f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/5d8a7b8193101e0cd72113e5ded10e9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/5d8a7b8193101e0cd72113e5ded10e9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/f54909396cacadd52a04b3f96a21ebc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/f54909396cacadd52a04b3f96a21ebc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/1cd757c5f3f323dc41ed67b63bf89948/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/1cd757c5f3f323dc41ed67b63bf89948/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/f3003834717cbc869e9d4d6fb9dcc25e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/f3003834717cbc869e9d4d6fb9dcc25e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/c14a7b6f80e029869f0dfc36d83d99b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /Users/JP/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/c14a7b6f80e029869f0dfc36d83d99b9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/src/main/AndroidManifest.xml

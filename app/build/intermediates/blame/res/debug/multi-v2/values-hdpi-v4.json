@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/JP/Documents/Professional/Android development/GithubProjects/Jetpack_4/Chapter4_Navigation/AndroidJetpackNavigation/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/JP/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/1e9cfbcd1d227d85b518a56c985aed72/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
